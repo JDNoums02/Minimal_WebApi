@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP4", "TP4.csproj", "{969AEEF0-7AB7-4C35-92CB-5DA8799D81EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP4.WebApi.Tests", "..\TP4.WebApi.Tests\TP4.WebApi.Tests.csproj", "{A0516205-62DD-4756-9493-B3C46B73CC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969AEEF0-7AB7-4C35-92CB-5DA8799D81EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969AEEF0-7AB7-4C35-92CB-5DA8799D81EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969AEEF0-7AB7-4C35-92CB-5DA8799D81EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969AEEF0-7AB7-4C35-92CB-5DA8799D81EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0516205-62DD-4756-9493-B3C46B73CC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0516205-62DD-4756-9493-B3C46B73CC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0516205-62DD-4756-9493-B3C46B73CC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0516205-62DD-4756-9493-B3C46B73CC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C47C85-5A23-4284-94F2-7A6FD77566B7}
+	EndGlobalSection
+EndGlobal
